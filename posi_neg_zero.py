@@ -1,4 +1,4 @@
-# 10_02_2026 prog02: identificação de números inteiros
+# 10_02_2026 py.prog01: identificação de números inteiros
 # por yuuuchua
 
 num = int(input("Digite um número: "))
