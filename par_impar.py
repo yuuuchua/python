@@ -1,4 +1,4 @@
-# 10_02_2026 py.prog04: classifica numeros como par ou impar
+# 10_02_2026 py.prog04: classifica numeros de uma lista como par ou impar
 # por yuuuchua
 
 def par_ou_impar(n):
