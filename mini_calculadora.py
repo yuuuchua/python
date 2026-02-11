@@ -19,6 +19,8 @@ def multiplicacao(num1, num2):
 def divisao(num1, num2):
     return num1 / num2
 
+resultado = None
+
 if operacao == 1:
     resultado = soma(num1, num2)
 elif operacao == 2:
